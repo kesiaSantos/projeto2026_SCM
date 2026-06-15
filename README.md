@@ -2,7 +2,7 @@
 projeto de  software 2026
 
 # Sistema simples para gerenciamento de tarefas
-# Não consegui abrir Git  Bush e nem salvar pelo vscode
+# Não consegui abrir Git  Bash e nem salvar pelo vscode
 
 tarefas = []
 
